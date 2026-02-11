@@ -59,17 +59,15 @@ avatar: "/img/avatar-icon.png"
 # Change all these values or delete the ones you don't want.
 # Important: you must keep the "name" parameter, everything else you can remove
 author:
-  name: Francesc Ràfols
-  email: "rrfrancesc@yahoo.es"
+  name: The Author
   youtube: "channel/UCIbsoO9PoFA9wYtZAiXLsAw"
   linkedin: "francesc-r%C3%A0fols-ravent%C3%B3s-a3193437/?originalSubdomain=es"  # eg. daattali
-  telephone: +0034666402247   # eg. +14159998888
 
 # Select which links to show in the footer
 footer-links-active:
   rss: false
   facebook: false
-  email: true
+  email: false
   twitter: false
   google-plus: false
   github: true
@@ -81,15 +79,15 @@ footer-links-active:
   instagram: false
   youtube: true
   spotify: false
-  telephone: true
+  telephone: false
   steam: false
   twitch: false
   yelp: false
 
 # Select which share links to show in posts
 share-links-active:
-  twitter: true
-  facebook: true
+  twitter: false
+  facebook: false
   google: false
   linkedin: true
   youtube: true
